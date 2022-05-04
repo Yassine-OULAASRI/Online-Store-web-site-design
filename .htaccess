@@ -1,0 +1,5 @@
+<IfModule mod_expires.c>
+	ExpiresByType text/css "access"
+	ExpiresByType text/js "access"
+	ExpiresByType text/javascript "access"
+</IfModule>
